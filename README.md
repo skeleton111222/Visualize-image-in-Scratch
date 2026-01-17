@@ -25,4 +25,5 @@ For better performance, the project is intended to be run using **TurboWarp**.
 6. **Enable Turbo Mode**
    - Turn on Turbo Mode for better rendering performance
 7. **Run the project**
-   - Click the **green flag**
+   - Click the **green flag (when clicked in code one)** 
+   - **Note while running:- just click on when click of the code which you want to visualize as there are three image so it might mess up when run at once.**
